@@ -1,0 +1,11 @@
+C:\Users\Computer\Desktop\bt4\bt4\bin\Debug\bt4.exe.config
+C:\Users\Computer\Desktop\bt4\bt4\bin\Debug\bt4.exe
+C:\Users\Computer\Desktop\bt4\bt4\bin\Debug\bt4.pdb
+C:\Users\Computer\Desktop\bt4\bt4\obj\Debug\bt4.csproj.AssemblyReference.cache
+C:\Users\Computer\Desktop\bt4\bt4\obj\Debug\bt4.Form1.resources
+C:\Users\Computer\Desktop\bt4\bt4\obj\Debug\bt4.frmNhanVien.resources
+C:\Users\Computer\Desktop\bt4\bt4\obj\Debug\bt4.Properties.Resources.resources
+C:\Users\Computer\Desktop\bt4\bt4\obj\Debug\bt4.csproj.GenerateResource.cache
+C:\Users\Computer\Desktop\bt4\bt4\obj\Debug\bt4.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\bt4\bt4\obj\Debug\bt4.exe
+C:\Users\Computer\Desktop\bt4\bt4\obj\Debug\bt4.pdb
